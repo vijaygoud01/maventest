@@ -1,2 +1,2 @@
-welcome to CI with web hooks
+welcome to CI with web hooks using mvn 
 
