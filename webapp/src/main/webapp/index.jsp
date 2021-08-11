@@ -1,2 +1,2 @@
-welcome to CI with web hooks using mvn deployed in tomcat pipeline
+welcome to CI with web hooks using mvn deployed in tomcat pipelin
 
